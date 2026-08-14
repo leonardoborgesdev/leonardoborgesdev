@@ -1,10 +1,10 @@
 <div align="center">
 
-![Hero](https://reposkin.brazika.online/api/hero/leonardoborgesdev?v=2)
+![Hero](https://reposkin.brazika.online/api/hero/leonardoborgesdev?v=3)
 
 **[AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio)** · **[Instagram](https://instagram.com/borges_devv)** · **[Projects](https://github.com/leonardoborgesdev?tab=repositories)**
 
-![Wordmark](https://reposkin.brazika.online/api/wordmark/leonardoborgesdev?v=2)
+![Wordmark](https://reposkin.brazika.online/api/wordmark/leonardoborgesdev?v=3)
 
 </div>
 
@@ -18,7 +18,7 @@ I build across content automation, developer tools, iOS, and interactive interfa
 
 <div align="center">
 
-![About](https://reposkin.brazika.online/api/about/leonardoborgesdev?v=2)
+![About](https://reposkin.brazika.online/api/about/leonardoborgesdev?v=3)
 
 </div>
 
@@ -37,19 +37,19 @@ Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio
 
 <div align="center">
 
-![Stack](https://reposkin.brazika.online/api/stack/leonardoborgesdev?v=2)
+![Stack](https://reposkin.brazika.online/api/stack/leonardoborgesdev?v=3)
 
 </div>
 
 <div align="center">
 
-![Stats](https://reposkin.brazika.online/api/stats/leonardoborgesdev?v=2)
+![Stats](https://reposkin.brazika.online/api/stats/leonardoborgesdev?v=3)
 
 </div>
 
 <div align="center">
 
-![Heatmap](https://reposkin.brazika.online/api/heatmap/leonardoborgesdev?v=2)
+![Heatmap](https://reposkin.brazika.online/api/heatmap/leonardoborgesdev?v=3)
 
 </div>
 
@@ -66,7 +66,7 @@ The contribution graph is part of the profile experience. It refreshes automatic
 ## Current focus
 <sub>Current focus areas for Borges Dev</sub>
 
-![Highlights](https://reposkin.brazika.online/api/highlights/leonardoborgesdev?items=AI%20automation%3A%3AShipping%20full%20content%20pipelines%20end-to-end%7CiOS%20%26%20mobile%3A%3AOn-device%20video%20tools%7COpen%20source%3A%3ABuilding%20in%20public&v=2)
+![Highlights](https://reposkin.brazika.online/api/highlights/leonardoborgesdev?items=AI%20automation%3A%3AShipping%20full%20content%20pipelines%20end-to-end%7CiOS%20%26%20mobile%3A%3AOn-device%20video%20tools%7COpen%20source%3A%3ABuilding%20in%20public&v=3)
 
 <div align="center">
 
