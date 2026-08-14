@@ -70,8 +70,8 @@ The contribution graph is part of the profile experience. It refreshes automatic
 
 <div align="center">
 
-[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) · [Build a profile like this](https://reposkin.pro)
+[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) · [Build a profile like this](https://reposkins.pro)
 
-<sub>Designed with RepoSkin. Built in public.</sub>
+<sub>Designed with RepoSkins. Built in public.</sub>
 
 </div>
