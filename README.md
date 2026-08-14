@@ -1,11 +1,10 @@
 <div align="center">
 
-![Hero](https://www.gitskins.com/api/section/hero?username=leonardoborgesdev&theme=midnight&style=aura)
-<sub>Animated profile hero for Borges Dev</sub>
+![Hero](https://reposkin.brazika.online/api/hero/leonardoborgesdev)
 
 **[AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio)** · **[Instagram](https://instagram.com/borges_devv)** · **[Projects](https://github.com/leonardoborgesdev?tab=repositories)**
 
-![Wordmark](https://www.gitskins.com/api/section/wordmark?username=leonardoborgesdev&theme=midnight&style=aura&label=Borges%20Dev)
+![Wordmark](https://reposkin.brazika.online/api/wordmark/leonardoborgesdev)
 
 </div>
 
@@ -19,7 +18,7 @@ I build across content automation, developer tools, iOS, and interactive interfa
 
 <div align="center">
 
-![About](https://www.gitskins.com/api/section/about?username=leonardoborgesdev&theme=midnight&style=aura&mode=dark)
+![About](https://reposkin.brazika.online/api/about/leonardoborgesdev)
 
 </div>
 
@@ -38,19 +37,19 @@ Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio
 
 <div align="center">
 
-![Stack](https://www.gitskins.com/api/section/stack?username=leonardoborgesdev&theme=midnight&style=aura)
+![Stack](https://reposkin.brazika.online/api/stack/leonardoborgesdev)
 
 </div>
 
 <div align="center">
 
-![Stats](https://www.gitskins.com/api/section/stats?username=leonardoborgesdev&theme=midnight&style=aura)
+![Stats](https://reposkin.brazika.online/api/stats/leonardoborgesdev)
 
 </div>
 
 <div align="center">
 
-![Heatmap](https://www.gitskins.com/api/section/heatmap?username=leonardoborgesdev&theme=midnight&style=aura)
+![Heatmap](https://reposkin.brazika.online/api/heatmap/leonardoborgesdev)
 
 </div>
 
@@ -67,12 +66,12 @@ The contribution graph is part of the profile experience. It refreshes automatic
 ## Current focus
 <sub>Current focus areas for Borges Dev</sub>
 
-![Highlights](https://www.gitskins.com/api/section/highlights?username=leonardoborgesdev&theme=midnight&style=aura&items=AI%20automation::Shipping%20full%20content%20pipelines%20end-to-end%7CiOS%20%26%20mobile::On-device%20video%20tools%7COpen%20source::Building%20in%20public)
+![Highlights](https://reposkin.brazika.online/api/highlights/leonardoborgesdev?items=AI%20automation%3A%3AShipping%20full%20content%20pipelines%20end-to-end%7CiOS%20%26%20mobile%3A%3AOn-device%20video%20tools%7COpen%20source%3A%3ABuilding%20in%20public)
 
 <div align="center">
 
-[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) · [Build a profile like this](https://www.gitskins.com)
+[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) · [Build a profile like this](https://reposkin.pro)
 
-<sub>Designed with GitSkins. Built in public.</sub>
+<sub>Designed with RepoSkin. Built in public.</sub>
 
 </div>
