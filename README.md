@@ -48,6 +48,12 @@ Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio
 
 </div>
 
+<div align="center">
+
+![Heatmap](https://www.gitskins.com/api/section/heatmap?username=leonardoborgesdev&theme=midnight&style=aura)
+
+</div>
+
 ## A profile that moves
 
 The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
