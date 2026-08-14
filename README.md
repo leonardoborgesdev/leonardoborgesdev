@@ -5,6 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40borges__devv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/borges_devv)
 [![Email](https://img.shields.io/badge/Email-leonardoborgesdev%40gmail.com-38e07b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoborgesdev@gmail.com)
 
+![Wordmark](https://www.gitskins.com/api/section/wordmark?username=leonardoborgesdev&theme=midnight&style=aura&label=Borges%20Dev)
+
+![About](https://www.gitskins.com/api/section/about?username=leonardoborgesdev&theme=midnight&style=aura&mode=dark)
+
 </div>
 
 <br>
@@ -27,6 +31,14 @@ Full-Stack AI Engineer building local-first, open-source tools for the AI agent 
 ![Stats](https://www.gitskins.com/api/section/stats?username=leonardoborgesdev&theme=midnight&style=aura)
 
 ![Stack](https://www.gitskins.com/api/section/stack?username=leonardoborgesdev&theme=midnight&style=aura)
+
+</div>
+
+## Current focus
+
+![Highlights](https://www.gitskins.com/api/section/highlights?username=leonardoborgesdev&theme=midnight&style=aura&items=AI%20automation::Shipping%20full%20content%20pipelines%20end-to-end%7CiOS%20%26%20mobile::On-device%20video%20tools%7COpen%20source::Building%20in%20public)
+
+<div align="center">
 
 ![Activity](https://www.gitskins.com/api/section/heatmap?username=leonardoborgesdev&theme=midnight&style=aura)
 
