@@ -6,7 +6,6 @@
 **[AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio)** · **[Instagram](https://instagram.com/borges_devv)** · **[Projects](https://github.com/leonardoborgesdev?tab=repositories)**
 
 ![Wordmark](https://www.gitskins.com/api/section/wordmark?username=leonardoborgesdev&theme=midnight&style=aura&label=Borges%20Dev)
-<sub>Animated 3D wordmark for Borges Dev</sub>
 
 </div>
 
@@ -21,7 +20,6 @@ I build across content automation, developer tools, iOS, and interactive interfa
 <div align="center">
 
 ![About](https://www.gitskins.com/api/section/about?username=leonardoborgesdev&theme=midnight&style=aura&mode=dark)
-<sub>About Borges Dev</sub>
 
 </div>
 
@@ -44,8 +42,6 @@ Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio
 
 </div>
 
-<sub>GitHub activity stats for Borges Dev</sub>
-
 <div align="center">
 
 ![Stats](https://www.gitskins.com/api/section/stats?username=leonardoborgesdev&theme=midnight&style=aura)
@@ -58,7 +54,7 @@ The contribution graph is part of the profile experience. It refreshes automatic
 
 <div align="center">
 
-![Activity](https://www.gitskins.com/api/section/heatmap?username=leonardoborgesdev&theme=midnight&style=aura)
+![Space Shooter](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/output/space-shooter.gif)
 
 </div>
 
