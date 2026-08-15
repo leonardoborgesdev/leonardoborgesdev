@@ -2,15 +2,17 @@
 
 ![Hero](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/hero-dark.svg)
 
-**[AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio)** | **[Instagram](https://instagram.com/borges_devv)** | **[Projects](https://github.com/leonardoborgesdev?tab=repositories)**
+</div>
+
+[**AutoReels Studio**](https://github.com/leonardoborgesdev/autoreels-studio) · [**Instagram**](https://instagram.com/borges_devv) · [**Projects**](https://github.com/leonardoborgesdev?tab=repositories)
+
+<div align="center">
 
 ![Wordmark](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/wordmark.svg)
 
 </div>
 
-<br>
-
-### Building content pipelines for the AI era
+## Building content pipelines for the AI era
 
 I am a full-stack AI engineer shipping local-first, open-source tools for the AI agent lifecycle. My work focuses on turning raw input - a repo, a link, a raw clip - into a finished, publishable product with no manual steps in between.
 
@@ -18,7 +20,7 @@ I build across content automation, developer tools, iOS, and interactive interfa
 
 <div align="center">
 
-![Portrait](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/portrait.svg)
+![About](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/portrait.svg)
 
 </div>
 
@@ -31,23 +33,23 @@ I build across content automation, developer tools, iOS, and interactive interfa
 
 <div align="center">
 
-![Projects](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/projects.svg)
+![Selected projects](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/projects.svg)
 
 </div>
 
-[Explore AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio) | [Visit instagram.com/borges_devv](https://instagram.com/borges_devv)
+[**Explore AutoReels Studio**](https://github.com/leonardoborgesdev/autoreels-studio) · [**Visit instagram.com/borges_devv**](https://instagram.com/borges_devv)
 
 ## Engineering signal
 
 <div align="center">
 
-![Stack](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/stack.svg)
+![Technology stack](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/stack.svg)
 
 </div>
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/stats.svg)
+![GitHub activity stats](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/stats.svg)
 
 </div>
 
@@ -57,13 +59,13 @@ The contribution graph is part of the profile experience. It refreshes automatic
 
 <div align="center">
 
-![Heatmap](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap-jet.svg)
+![Contribution heatmap](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap-jet.svg)
 
 </div>
 
 <div align="center">
 
-![Heatmap Snake](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap-snake.svg)
+![Snake heatmap](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap-snake.svg)
 
 </div>
 
@@ -71,19 +73,19 @@ The contribution graph is part of the profile experience. It refreshes automatic
 
 <div align="center">
 
-![Highlights](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/highlights.svg)
+![Current focus areas](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/highlights.svg)
 
 </div>
 
 <div align="center">
 
-![Chess](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/chess.svg)
+![Recent activity visualization](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/chess.svg)
 
 </div>
 
 <div align="center">
 
-[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) | [Build a profile like this](https://reposkins.pro)
+[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) · [Build a profile like this](https://reposkins.pro)
 
 <sub>Designed with RepoSkins. Built in public.</sub>
 
