@@ -1,0 +1,14 @@
+<svg width="860" height="190" viewBox="0 0 860 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="40%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="858" height="188" rx="20" fill="url(#bg)" stroke="#818cf866" stroke-width="1.5"/>
+  <text x="430" y="30" font-family="monospace" font-size="12" fill="#a5b4fc" text-anchor="middle">leonardoborgesdev@github: ~$ ./wordmark.sh --name</text>
+  <text x="430" y="130" font-family="sans-serif" font-size="54" font-weight="800" fill="#e0e7ff" text-anchor="middle" letter-spacing="3">BORGES DEV</text>
+  <text x="430" y="165" font-family="monospace" font-size="13" fill="#818cf8" text-anchor="middle">&gt; _</text>
+  <text x="846" y="178" font-family="sans-serif" font-size="10" fill="#a5b4fc88" text-anchor="end">reposkins.pro</text>
+</svg>
