@@ -1,10 +1,10 @@
 <div align="center">
 
-![Hero](https://reposkins-api.automatrixapps99x.win/api/section/hero/leonardoborgesdev?theme=midnight)
+![Hero](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/hero.svg)
 
-**[AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio)** · **[Instagram](https://instagram.com/borges_devv)** · **[Projects](https://github.com/leonardoborgesdev?tab=repositories)**
+**[AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio)** Â· **[Instagram](https://instagram.com/borges_devv)** Â· **[Projects](https://github.com/leonardoborgesdev?tab=repositories)**
 
-![Wordmark](https://reposkins-api.automatrixapps99x.win/api/section/wordmark/leonardoborgesdev?theme=midnight)
+![Wordmark](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/wordmark.svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ### Building content pipelines for the AI era
 
-I am a full-stack AI engineer shipping local-first, open-source tools for the AI agent lifecycle. My work focuses on turning raw input — a repo, a link, a raw clip — into a finished, publishable product with no manual steps in between.
+I am a full-stack AI engineer shipping local-first, open-source tools for the AI agent lifecycle. My work focuses on turning raw input â€” a repo, a link, a raw clip â€” into a finished, publishable product with no manual steps in between.
 
 I build across content automation, developer tools, iOS, and interactive interfaces. The common thread is turning complex pipelines into simple, one-click experiences.
 
 <div align="center">
 
-![About](https://reposkins-api.automatrixapps99x.win/api/section/about/leonardoborgesdev?theme=midnight)
+![About](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/about.svg)
 
 </div>
 
@@ -27,29 +27,29 @@ I build across content automation, developer tools, iOS, and interactive interfa
 
 | Project | What it is |
 |---|---|
-| [**AutoReels Studio**](https://github.com/leonardoborgesdev/autoreels-studio) | Paste a link — GitHub repo, any website, or your own raw video — and get a vertical reel ready to post: AI script, automatic screen capture, cloned avatar, karaoke captions. |
+| [**AutoReels Studio**](https://github.com/leonardoborgesdev/autoreels-studio) | Paste a link â€” GitHub repo, any website, or your own raw video â€” and get a vertical reel ready to post: AI script, automatic screen capture, cloned avatar, karaoke captions. |
 | [**retake-app**](https://github.com/leonardoborgesdev/retake-app) | iOS app that compresses video right on your phone, finding the right chunks on its own. |
 
-Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio) · Visit [instagram.com/borges_devv](https://instagram.com/borges_devv)
+Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio) Â· Visit [instagram.com/borges_devv](https://instagram.com/borges_devv)
 
 ## Engineering signal
 <sub>Technology stack for Borges Dev</sub>
 
 <div align="center">
 
-![Stack](https://reposkins-api.automatrixapps99x.win/api/section/stack/leonardoborgesdev?theme=midnight)
+![Stack](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/stack.svg)
 
 </div>
 
 <div align="center">
 
-![Stats](https://reposkins-api.automatrixapps99x.win/api/section/stats/leonardoborgesdev?theme=midnight)
+![Stats](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/stats.svg)
 
 </div>
 
 <div align="center">
 
-![Heatmap](https://reposkins-api.automatrixapps99x.win/api/section/heatmap/leonardoborgesdev?theme=midnight)
+![Heatmap](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap.svg)
 
 </div>
 
@@ -66,11 +66,11 @@ The contribution graph is part of the profile experience. It refreshes automatic
 ## Current focus
 <sub>Current focus areas for Borges Dev</sub>
 
-![Highlights](https://reposkins-api.automatrixapps99x.win/api/section/highlights/leonardoborgesdev?theme=midnight&items=AI%20automation%3A%3AShipping%20full%20content%20pipelines%20end-to-end%7CiOS%20%26%20mobile%3A%3AOn-device%20video%20tools%7COpen%20source%3A%3ABuilding%20in%20public)
+![Highlights](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/highlights.svg)
 
 <div align="center">
 
-[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) · [Build a profile like this](https://reposkins.pro)
+[See all repositories](https://github.com/leonardoborgesdev?tab=repositories) Â· [Build a profile like this](https://reposkins.pro)
 
 <sub>Designed with RepoSkins. Built in public.</sub>
 
