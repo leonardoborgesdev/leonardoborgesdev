@@ -49,19 +49,26 @@ Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio
 
 <div align="center">
 
-![Highlights](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/highlights.svg)
-
-</div>
-
-<div align="center">
-
 ![Heatmap](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap-jet.svg)
 
 </div>
 
+## A profile that moves
+
+The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
+
 <div align="center">
 
 ![Heatmap Snake](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap-snake.svg)
+
+</div>
+
+## Current focus
+<sub>Current focus areas for Borges Dev</sub>
+
+<div align="center">
+
+![Highlights](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/highlights.svg)
 
 </div>
 
