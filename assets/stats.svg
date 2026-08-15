@@ -1,0 +1,22 @@
+<svg width="860" height="190" viewBox="0 0 860 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="40%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="858" height="188" rx="20" fill="url(#bg)" stroke="#818cf866" stroke-width="1.5"/>
+  <text x="30" y="38" font-family="sans-serif" font-size="20" font-weight="700" fill="#e0e7ff">Profile Signal</text>
+  <text x="30" y="58" font-family="sans-serif" font-size="12" fill="#a5b4fc">Live GitHub stats</text>
+  <rect x="30" y="70" width="195" height="90" rx="14" fill="#00000030" stroke="#818cf84d"/>
+  <text x="50" y="100" font-family="sans-serif" font-size="12" fill="#a5b4fc">Stars</text>
+  <text x="50" y="135" font-family="sans-serif" font-size="26" font-weight="700" fill="#818cf8">4</text><rect x="237" y="70" width="195" height="90" rx="14" fill="#00000030" stroke="#818cf84d"/>
+  <text x="257" y="100" font-family="sans-serif" font-size="12" fill="#a5b4fc">Contributions</text>
+  <text x="257" y="135" font-family="sans-serif" font-size="26" font-weight="700" fill="#c084fc">845</text><rect x="444" y="70" width="195" height="90" rx="14" fill="#00000030" stroke="#818cf84d"/>
+  <text x="464" y="100" font-family="sans-serif" font-size="12" fill="#a5b4fc">Repos</text>
+  <text x="464" y="135" font-family="sans-serif" font-size="26" font-weight="700" fill="#818cf8">11</text><rect x="651" y="70" width="195" height="90" rx="14" fill="#00000030" stroke="#818cf84d"/>
+  <text x="671" y="100" font-family="sans-serif" font-size="12" fill="#a5b4fc">Followers</text>
+  <text x="671" y="135" font-family="sans-serif" font-size="26" font-weight="700" fill="#c084fc">3</text>
+  <text x="846" y="178" font-family="sans-serif" font-size="10" fill="#a5b4fc88" text-anchor="end">reposkins.pro</text>
+</svg>
