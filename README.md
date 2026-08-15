@@ -23,17 +23,21 @@ I build across content automation, developer tools, iOS, and interactive interfa
 </div>
 
 ## Selected work
-<sub>Selected projects by Borges Dev</sub>
 
 | Project | What it is |
 |---|---|
 | [**AutoReels Studio**](https://github.com/leonardoborgesdev/autoreels-studio) | Paste a link – GitHub repo, any website, or your own raw video – and get a vertical reel ready to post: AI script, automatic screen capture, cloned avatar, karaoke captions. |
 | [**retake-app**](https://github.com/leonardoborgesdev/retake-app) | iOS app that compresses video right on your phone, finding the right chunks on its own. |
 
-Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio) · Visit [instagram.com/borges_devv](https://instagram.com/borges_devv)
+<div align="center">
+
+![Projects](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/projects.svg)
+
+</div>
+
+[Explore AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio) · [Visit instagram.com/borges_devv](https://instagram.com/borges_devv)
 
 ## Engineering signal
-<sub>Technology stack for Borges Dev</sub>
 
 <div align="center">
 
@@ -47,15 +51,15 @@ Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio
 
 </div>
 
+## A profile that moves
+
+The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
+
 <div align="center">
 
 ![Heatmap](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/heatmap-jet.svg)
 
 </div>
-
-## A profile that moves
-
-The contribution graph is part of the profile experience. It refreshes automatically from this repository and turns public activity into a small visual system.
 
 <div align="center">
 
@@ -64,7 +68,6 @@ The contribution graph is part of the profile experience. It refreshes automatic
 </div>
 
 ## Current focus
-<sub>Current focus areas for Borges Dev</sub>
 
 <div align="center">
 
@@ -75,12 +78,6 @@ The contribution graph is part of the profile experience. It refreshes automatic
 <div align="center">
 
 ![Chess](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/chess.svg)
-
-</div>
-
-<div align="center">
-
-![Projects](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/projects.svg)
 
 </div>
 
