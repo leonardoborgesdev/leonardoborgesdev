@@ -1,0 +1,24 @@
+<svg width="860" height="240" viewBox="0 0 860 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="40%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="858" height="238" rx="20" fill="url(#bg)" stroke="#818cf866" stroke-width="1.5"/>
+  <clipPath id="avatarClip"><circle cx="70" cy="70" r="42"/></clipPath>
+  <circle cx="70" cy="70" r="44" fill="none" stroke="#818cf8" stroke-width="2"/>
+  <image href="https://avatars.githubusercontent.com/u/272590589?v=4" x="28" y="28" width="84" height="84" clip-path="url(#avatarClip)"/>
+  <text x="134" y="52" font-family="monospace" font-size="14" fill="#a5b4fc">@leonardoborgesdev</text>
+  <text x="134" y="88" font-family="sans-serif" font-size="30" font-weight="700" fill="#e0e7ff">Borges Dev</text>
+  <text x="134" y="114" font-family="sans-serif" font-size="14" fill="#a5b4fc">Full-Stack AI Engineer | Founder of ship-safe 🛡️ Building local-first,</text>
+  <text x="830" y="60" font-family="sans-serif" font-size="26" font-weight="700" fill="#818cf8" text-anchor="end">4</text>
+  <text x="830" y="78" font-family="sans-serif" font-size="10" fill="#a5b4fc" text-anchor="end" letter-spacing="1">TOTAL STARS</text>
+  <rect x="30" y="190" width="60" height="26" rx="13" fill="#818cf826" stroke="#818cf866"/>
+  <text x="60.0" y="207" font-family="sans-serif" font-size="12" fill="#e0e7ff" text-anchor="middle">Python</text><rect x="104" y="190" width="53" height="26" rx="13" fill="#818cf826" stroke="#818cf866"/>
+  <text x="130.5" y="207" font-family="sans-serif" font-size="12" fill="#e0e7ff" text-anchor="middle">Swift</text><rect x="171" y="190" width="88" height="26" rx="13" fill="#818cf826" stroke="#818cf866"/>
+  <text x="215.0" y="207" font-family="sans-serif" font-size="12" fill="#e0e7ff" text-anchor="middle">PowerShell</text><rect x="273" y="190" width="88" height="26" rx="13" fill="#818cf826" stroke="#818cf866"/>
+  <text x="317.0" y="207" font-family="sans-serif" font-size="12" fill="#e0e7ff" text-anchor="middle">TypeScript</text>
+  <text x="846" y="228" font-family="sans-serif" font-size="10" fill="#a5b4fc88" text-anchor="end">reposkins.pro</text>
+</svg>
