@@ -67,6 +67,12 @@ The contribution graph is part of the profile experience. It refreshes automatic
 
 ![Space Shooter](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/output/space-shooter.gif)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/output/dist/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/output/dist/snake-dark.svg" />
+</picture>
+
 </div>
 
 ## Current focus
