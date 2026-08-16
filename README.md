@@ -36,6 +36,12 @@ I build across content automation, developer tools, iOS, and interactive interfa
 | [**AutoReels Studio**](https://github.com/leonardoborgesdev/autoreels-studio) | Paste a link — GitHub repo, any website, or your own raw video — and get a vertical reel ready to post: AI script, automatic screen capture, cloned avatar, karaoke captions. |
 | [**retake-app**](https://github.com/leonardoborgesdev/retake-app) | iOS app that compresses video right on your phone, finding the right chunks on its own. |
 
+<div align="center">
+
+![Projects](https://raw.githubusercontent.com/leonardoborgesdev/leonardoborgesdev/main/assets/projects.svg)
+
+</div>
+
 Explore [AutoReels Studio](https://github.com/leonardoborgesdev/autoreels-studio) · Visit [instagram.com/borges_devv](https://instagram.com/borges_devv)
 
 ## Engineering signal

@@ -1,157 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="452" viewBox="0 0 860 452" role="img" aria-label="RepoSkins gs-projects-reposkins-neon-dark section">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="452" viewBox="0 0 860 452" role="img" aria-label="GitSkins gs-projects-leonardoborgesdev-midnight-dark section">
   <defs>
-    <linearGradient id="gs-projects-reposkins-neon-dark-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0e1a"/>
-      <stop offset="54%" stop-color="#0f1629"/>
-      <stop offset="100%" stop-color="#0a0e1a"/>
+    <linearGradient id="gs-projects-leonardoborgesdev-midnight-dark-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="54%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
     </linearGradient>
     
-    <radialGradient id="gs-projects-reposkins-neon-dark-orb-0" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.72"/>
-      <stop offset="58%" stop-color="#22d3ee" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    <radialGradient id="gs-projects-leonardoborgesdev-midnight-dark-orb-0" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#818cf8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gs-projects-reposkins-neon-dark-orb-1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.5"/>
-      <stop offset="58%" stop-color="#0ea5e9" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    <radialGradient id="gs-projects-leonardoborgesdev-midnight-dark-orb-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#be5bf6" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#be5bf6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#be5bf6" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gs-projects-reposkins-neon-dark-orb-2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.72"/>
-      <stop offset="58%" stop-color="#3b82f6" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    <radialGradient id="gs-projects-leonardoborgesdev-midnight-dark-orb-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5beaf6" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#5beaf6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#5beaf6" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gs-projects-reposkins-neon-dark-orb-3" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.5"/>
-      <stop offset="58%" stop-color="#a855f7" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    <radialGradient id="gs-projects-leonardoborgesdev-midnight-dark-orb-3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f6665b" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#f6665b" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#f6665b" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gs-projects-reposkins-neon-dark-orb-4" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.72"/>
-      <stop offset="58%" stop-color="#f472b6" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    <radialGradient id="gs-projects-leonardoborgesdev-midnight-dark-orb-4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e0e7ff" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#e0e7ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#e0e7ff" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gs-projects-reposkins-neon-dark-orb-5" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
-      <stop offset="58%" stop-color="#38bdf8" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    <radialGradient id="gs-projects-leonardoborgesdev-midnight-dark-orb-5" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a5b4fc" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#a5b4fc" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#a5b4fc" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="gs-projects-reposkins-neon-dark-shine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2"/>
-      <stop offset="44%" stop-color="#0ea5e9" stop-opacity="0.82"/>
-      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0.22"/>
+    <linearGradient id="gs-projects-leonardoborgesdev-midnight-dark-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e0e7ff" stop-opacity="0.2"/>
+      <stop offset="44%" stop-color="#818cf8" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#a5b4fc" stop-opacity="0.22"/>
     </linearGradient>
-    <linearGradient id="gs-projects-reposkins-neon-dark-holo" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="18%" stop-color="#0a0e1a"/>
-      <stop offset="38%" stop-color="#0ea5e9"/>
-      <stop offset="58%" stop-color="#7dd3fc"/>
-      <stop offset="78%" stop-color="#0a0e1a"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
+    <linearGradient id="gs-projects-leonardoborgesdev-midnight-dark-holo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e0e7ff"/>
+      <stop offset="18%" stop-color="#020617"/>
+      <stop offset="38%" stop-color="#818cf8"/>
+      <stop offset="58%" stop-color="#a5b4fc"/>
+      <stop offset="78%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
       <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
   <style>
-    #gs-projects-reposkins-neon-dark .aura-orb-a { animation: gs-projects-reposkins-neon-dark-float-a 9s ease-in-out infinite; }
-    #gs-projects-reposkins-neon-dark .aura-orb-b { animation: gs-projects-reposkins-neon-dark-float-b 11s ease-in-out infinite 1.1s; }
-    #gs-projects-reposkins-neon-dark .aura-orb-c { animation: gs-projects-reposkins-neon-dark-float-c 13s ease-in-out infinite 0.6s; }
-    #gs-projects-reposkins-neon-dark .aura-ring { animation: gs-projects-reposkins-neon-dark-ring 8s ease-in-out infinite; }
-    #gs-projects-reposkins-neon-dark .aura-ring-b { animation: gs-projects-reposkins-neon-dark-ring 10s ease-in-out infinite 1.6s; }
-    #gs-projects-reposkins-neon-dark .aura-chip { animation: gs-projects-reposkins-neon-dark-chip 650ms ease-out both; }
-    #gs-projects-reposkins-neon-dark .aura-cursor { animation: gs-projects-reposkins-neon-dark-cursor 1.1s step-end infinite; }
-    #gs-projects-reposkins-neon-dark .aura-bar { animation: gs-projects-reposkins-neon-dark-bar 1.15s ease-out both; transform-box: fill-box; transform-origin: left; }
-    #gs-projects-reposkins-neon-dark .aura-cell { animation: gs-projects-reposkins-neon-dark-cell 520ms ease-out both; }
-    @keyframes gs-projects-reposkins-neon-dark-cell { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes gs-projects-reposkins-neon-dark-float-a { 0%,100% { transform: translate(0,0); opacity: .58; } 50% { transform: translate(28px,-20px); opacity: .86; } }
-    @keyframes gs-projects-reposkins-neon-dark-float-b { 0%,100% { transform: translate(0,0); opacity: .42; } 50% { transform: translate(-24px,18px); opacity: .72; } }
-    @keyframes gs-projects-reposkins-neon-dark-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
-    @keyframes gs-projects-reposkins-neon-dark-ring { 0%,100% { opacity: .06; } 50% { opacity: .22; } }
-    @keyframes gs-projects-reposkins-neon-dark-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes gs-projects-reposkins-neon-dark-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
-    @keyframes gs-projects-reposkins-neon-dark-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-orb-a { animation: gs-projects-leonardoborgesdev-midnight-dark-float-a 9s ease-in-out infinite; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-orb-b { animation: gs-projects-leonardoborgesdev-midnight-dark-float-b 11s ease-in-out infinite 1.1s; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-orb-c { animation: gs-projects-leonardoborgesdev-midnight-dark-float-c 13s ease-in-out infinite 0.6s; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-ring { animation: gs-projects-leonardoborgesdev-midnight-dark-ring 8s ease-in-out infinite; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-ring-b { animation: gs-projects-leonardoborgesdev-midnight-dark-ring 10s ease-in-out infinite 1.6s; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-chip { animation: gs-projects-leonardoborgesdev-midnight-dark-chip 650ms ease-out both; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-cursor { animation: gs-projects-leonardoborgesdev-midnight-dark-cursor 1.1s step-end infinite; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-bar { animation: gs-projects-leonardoborgesdev-midnight-dark-bar 1.15s ease-out both; transform-box: fill-box; transform-origin: left; }
+    #gs-projects-leonardoborgesdev-midnight-dark .aura-cell { animation: gs-projects-leonardoborgesdev-midnight-dark-cell 520ms ease-out both; }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-cell { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-float-a { 0%,100% { transform: translate(0,0); opacity: .58; } 50% { transform: translate(28px,-20px); opacity: .86; } }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-float-b { 0%,100% { transform: translate(0,0); opacity: .42; } 50% { transform: translate(-24px,18px); opacity: .72; } }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-ring { 0%,100% { opacity: .06; } 50% { opacity: .22; } }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @keyframes gs-projects-leonardoborgesdev-midnight-dark-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
   </style>
-  <g id="gs-projects-reposkins-neon-dark">
-    <rect width="860" height="452" rx="20" fill="url(#gs-projects-reposkins-neon-dark-bg)"/>
+  <g id="gs-projects-leonardoborgesdev-midnight-dark">
+    <rect width="860" height="452" rx="20" fill="url(#gs-projects-leonardoborgesdev-midnight-dark-bg)"/>
     
-    <ellipse class="aura-orb-a" cx="138" cy="81" rx="206" ry="208" fill="url(#gs-projects-reposkins-neon-dark-orb-0)"/>
-    <ellipse class="aura-orb-b" cx="654" cy="99" rx="241" ry="190" fill="url(#gs-projects-reposkins-neon-dark-orb-1)"/>
-    <ellipse class="aura-orb-c" cx="499" cy="398" rx="310" ry="154" fill="url(#gs-projects-reposkins-neon-dark-orb-2)"/>
-    <ellipse class="aura-orb-b" cx="826" cy="353" rx="172" ry="190" fill="url(#gs-projects-reposkins-neon-dark-orb-3)"/>
-    <text x="30" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#0ea5e9">PROJECTS.LIST</text>
-    <text x="180" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7dd3fc" fill-opacity="0.8">./projects.sh --all</text>
-    <text x="830" y="40" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7dd3fc" fill-opacity="0.7">4 pinned</text>
-    <line x1="28" y1="52" x2="832" y2="52" stroke="#0ea5e9" stroke-opacity="0.5" stroke-width="1.5"/>
-    <a href="https://github.com/social-app" target="_blank">
+    <ellipse class="aura-orb-a" cx="138" cy="81" rx="206" ry="208" fill="url(#gs-projects-leonardoborgesdev-midnight-dark-orb-0)"/>
+    <ellipse class="aura-orb-b" cx="654" cy="99" rx="241" ry="190" fill="url(#gs-projects-leonardoborgesdev-midnight-dark-orb-1)"/>
+    <ellipse class="aura-orb-c" cx="499" cy="398" rx="310" ry="154" fill="url(#gs-projects-leonardoborgesdev-midnight-dark-orb-2)"/>
+    <ellipse class="aura-orb-b" cx="826" cy="353" rx="172" ry="190" fill="url(#gs-projects-leonardoborgesdev-midnight-dark-orb-3)"/>
+    <text x="30" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#818cf8">PROJECTS.LIST</text>
+    <text x="180" y="40" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a5b4fc" fill-opacity="0.8">./projects.sh --all</text>
+    <text x="830" y="40" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a5b4fc" fill-opacity="0.7">4 pinned</text>
+    <line x1="28" y1="52" x2="832" y2="52" stroke="#818cf8" stroke-opacity="0.5" stroke-width="1.5"/>
+    <a href="https://github.com/autoreels-studio" target="_blank">
     <g opacity="0" transform="translate(28,88)">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/>
-    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#38bdf8">
+    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#818cf8">
       <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="0.25s" repeatCount="indefinite"/>
     </rect>
-    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#0ea5e9" fill-opacity="0.06"/>
-    <line x1="0" y1="30" x2="394" y2="30" stroke="#38bdf8" stroke-opacity="0.5"/>
-    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#7dd3fc"><tspan fill="#0ea5e9">&#8226;</tspan> social-app</text>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#818cf8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#818cf8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#a5b4fc"><tspan fill="#818cf8">&#8226;</tspan> autoreels-studio</text>
     <circle cx="378" cy="15" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#38bdf8">social-app<tspan fill="#0ea5e9"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.65s" repeatCount="indefinite"/></tspan></text>
-    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7dd3fc">The Bluesky Social application for</text>
-    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7dd3fc">Web, iOS, and Android</text>
-    <rect x="18" y="112" width="80" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="58" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">TypeScript</text>
-    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7dd3fc"><tspan fill="#4b8cd2">&#9733;</tspan> 18K<tspan fill="#7dd3fc" fill-opacity="0.7" dx="12">updated 2h ago</tspan></text>
-    <circle cx="348" cy="92" r="25" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#3178c6" stroke-width="8" stroke-dasharray="147.67 9.41" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.55s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="147.67 9.41" dur="0.6s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#00ADD8" stroke-width="8" stroke-dasharray="3.50 153.58" stroke-dashoffset="-147.67" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.73s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="3.50 153.58" dur="0.6s" begin="0.73s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="2.27 154.81" stroke-dashoffset="-151.17" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.91s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="2.27 154.81" dur="0.6s" begin="0.91s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#A97BFF" stroke-width="8" stroke-dasharray="2.10 154.98" stroke-dashoffset="-153.44" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.09s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="2.10 154.98" dur="0.6s" begin="1.09s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#f472b6" stroke-width="8" stroke-dasharray="1.54 155.54" stroke-dashoffset="-155.54" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.27s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="1.54 155.54" dur="0.6s" begin="1.27s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#38bdf8">94%</text>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#e0e7ff">autoreels-studio<tspan fill="#818cf8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.65s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">Cola um link (GitHub, qualquer site,</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">ou seu próprio vídeo) e sai um reel v…</text>
+    <rect x="18" y="112" width="54" height="18" rx="9" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-opacity="0.4"/><text x="45" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#818cf8">Python</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a5b4fc"><tspan fill="#5594c8">&#9733;</tspan> 2<tspan fill="#a5b4fc" fill-opacity="0.7" dx="12">updated today</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#a5b4fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#3572A5" stroke-width="8" stroke-dasharray="83.18 73.90" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.55s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="83.18 73.90" dur="0.6s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#e34c26" stroke-width="8" stroke-dasharray="73.90 83.18" stroke-dashoffset="-83.18" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.73s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="73.90 83.18" dur="0.6s" begin="0.73s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#e0e7ff">53%</text>
     </g>
-  </a><a href="https://github.com/react" target="_blank">
+  </a><a href="https://github.com/meeting-library" target="_blank">
     <g opacity="0" transform="translate(438,88)">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/>
-    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#38bdf8">
+    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#818cf8">
       <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="1.10s" repeatCount="indefinite"/>
     </rect>
-    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#0ea5e9" fill-opacity="0.06"/>
-    <line x1="0" y1="30" x2="394" y2="30" stroke="#38bdf8" stroke-opacity="0.5"/>
-    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#7dd3fc"><tspan fill="#0ea5e9">&#8226;</tspan> react</text>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#818cf8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#818cf8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#a5b4fc"><tspan fill="#818cf8">&#8226;</tspan> meeting-library</text>
     <circle cx="378" cy="15" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#38bdf8">react<tspan fill="#0ea5e9"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.80s" repeatCount="indefinite"/></tspan></text>
-    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7dd3fc">The library for web and native user</text>
-    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7dd3fc">interfaces.</text>
-    <rect x="18" y="112" width="80" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="58" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">javascript</text><rect x="105" y="112" width="48" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="129" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">react</text><rect x="160" y="112" width="67" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="194" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">frontend</text>
-    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7dd3fc"><tspan fill="#f1e05a">&#9733;</tspan> 247K<tspan fill="#7dd3fc" fill-opacity="0.7" dx="12">updated 13h ago</tspan></text>
-    <circle cx="348" cy="92" r="25" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="77.96 79.12" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.70s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="77.96 79.12" dur="0.6s" begin="0.70s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#dea584" stroke-width="8" stroke-dasharray="40.83 116.25" stroke-dashoffset="-77.96" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.88s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="40.83 116.25" dur="0.6s" begin="0.88s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#3178c6" stroke-width="8" stroke-dasharray="35.36 121.72" stroke-dashoffset="-118.79" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.06s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="35.36 121.72" dur="0.6s" begin="1.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#e34c26" stroke-width="8" stroke-dasharray="1.61 155.47" stroke-dashoffset="-154.15" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.24s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="1.61 155.47" dur="0.6s" begin="1.24s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#f472b6" stroke-width="8" stroke-dasharray="1.32 155.76" stroke-dashoffset="-155.76" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.42s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="1.32 155.76" dur="0.6s" begin="1.42s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#38bdf8">50%</text>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#e0e7ff">meeting-library<tspan fill="#818cf8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.80s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">Self-hosted meeting intelligence —</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">record, transcribe, summarize, sync.</text>
+    <rect x="18" y="112" width="42" height="18" rx="9" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-opacity="0.4"/><text x="39" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#818cf8">HTML</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a5b4fc"><tspan fill="#e55b38">&#9733;</tspan> 1<tspan fill="#a5b4fc" fill-opacity="0.7" dx="12">updated today</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#a5b4fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#e34c26" stroke-width="8" stroke-dasharray="70.21 86.87" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.70s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="70.21 86.87" dur="0.6s" begin="0.70s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#3572A5" stroke-width="8" stroke-dasharray="54.35 102.73" stroke-dashoffset="-70.21" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.88s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="54.35 102.73" dur="0.6s" begin="0.88s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#3178c6" stroke-width="8" stroke-dasharray="23.30 133.78" stroke-dashoffset="-124.56" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.06s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="23.30 133.78" dur="0.6s" begin="1.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#89e051" stroke-width="8" stroke-dasharray="9.23 147.85" stroke-dashoffset="-147.85" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.24s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="9.23 147.85" dur="0.6s" begin="1.24s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#e0e7ff">45%</text>
     </g>
-  </a><a href="https://github.com/analysis" target="_blank">
+  </a><a href="https://github.com/retake-app" target="_blank">
     <g opacity="0" transform="translate(28,266)">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
-    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#38bdf8">
+    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#818cf8">
       <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="1.95s" repeatCount="indefinite"/>
     </rect>
-    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#0ea5e9" fill-opacity="0.06"/>
-    <line x1="0" y1="30" x2="394" y2="30" stroke="#38bdf8" stroke-opacity="0.5"/>
-    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#7dd3fc"><tspan fill="#0ea5e9">&#8226;</tspan> analysis</text>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#818cf8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#818cf8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#a5b4fc"><tspan fill="#818cf8">&#8226;</tspan> retake-app</text>
     <circle cx="378" cy="15" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#38bdf8">analysis<tspan fill="#0ea5e9"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.95s" repeatCount="indefinite"/></tspan></text>
-    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7dd3fc">A Lean companion to Analysis I</text>
-    
-    <rect x="18" y="112" width="42" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="39" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">Lean</text>
-    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7dd3fc"><tspan fill="#2bb5f2">&#9733;</tspan> 1,857<tspan fill="#7dd3fc" fill-opacity="0.7" dx="12">updated 2d ago</tspan></text>
-    <circle cx="348" cy="92" r="25" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#22d3ee" stroke-width="8" stroke-dasharray="156.84 0.24" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.85s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="156.84 0.24" dur="0.6s" begin="0.85s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#3572A5" stroke-width="8" stroke-dasharray="0.21 156.87" stroke-dashoffset="-156.84" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.03s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.21 156.87" dur="0.6s" begin="1.03s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#89e051" stroke-width="8" stroke-dasharray="0.03 157.05" stroke-dashoffset="-157.05" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.21s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.03 157.05" dur="0.6s" begin="1.21s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#38bdf8">100%</text>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#e0e7ff">retake-app<tspan fill="#818cf8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.95s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">retake. — iOS app: on-device video</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">compression + AI-powered silence/reta…</text>
+    <rect x="18" y="112" width="48" height="18" rx="9" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-opacity="0.4"/><text x="42" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#818cf8">Swift</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a5b4fc"><tspan fill="#f05138">&#9733;</tspan> 1<tspan fill="#a5b4fc" fill-opacity="0.7" dx="12">updated today</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#a5b4fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#F05138" stroke-width="8" stroke-dasharray="157.08 0.00" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.85s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="157.08 0.00" dur="0.6s" begin="0.85s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#e0e7ff">100%</text>
     </g>
-  </a><a href="https://github.com/react.dev" target="_blank">
+  </a><a href="https://github.com/youtube-os" target="_blank">
     <g opacity="0" transform="translate(438,266)">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/>
-    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#38bdf8">
+    <rect width="394" height="162" rx="13" fill="rgba(8,8,12,0.5)" stroke="#818cf8">
       <animate attributeName="stroke-opacity" values="0.45;0.85;0.45" dur="4.5s" begin="2.80s" repeatCount="indefinite"/>
     </rect>
-    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#0ea5e9" fill-opacity="0.06"/>
-    <line x1="0" y1="30" x2="394" y2="30" stroke="#38bdf8" stroke-opacity="0.5"/>
-    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#7dd3fc"><tspan fill="#0ea5e9">&#8226;</tspan> react.dev</text>
+    <path d="M0 13 a13 13 0 0 1 13 -13 h368 a13 13 0 0 1 13 13 v17 h-394 z" fill="#818cf8" fill-opacity="0.06"/>
+    <line x1="0" y1="30" x2="394" y2="30" stroke="#818cf8" stroke-opacity="0.5"/>
+    <text x="16" y="19.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#a5b4fc"><tspan fill="#818cf8">&#8226;</tspan> youtube-os</text>
     <circle cx="378" cy="15" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#38bdf8">react.dev<tspan fill="#0ea5e9"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="1.10s" repeatCount="indefinite"/></tspan></text>
-    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7dd3fc">The React documentation website</text>
-    
-    <rect x="18" y="112" width="80" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="58" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">javascript</text><rect x="105" y="112" width="48" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="129" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">react</text><rect x="160" y="112" width="61" height="18" rx="9" fill="#0ea5e9" fill-opacity="0.14" stroke="#0ea5e9" stroke-opacity="0.4"/><text x="190" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#0ea5e9">website</text>
-    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7dd3fc"><tspan fill="#f1e05a">&#9733;</tspan> 12K<tspan fill="#7dd3fc" fill-opacity="0.7" dx="12">updated 1d ago</tspan></text>
-    <circle cx="348" cy="92" r="25" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="116.41 40.67" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.00s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="116.41 40.67" dur="0.6s" begin="1.00s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#3178c6" stroke-width="8" stroke-dasharray="36.83 120.25" stroke-dashoffset="-116.41" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.18s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="36.83 120.25" dur="0.6s" begin="1.18s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#663399" stroke-width="8" stroke-dasharray="3.70 153.38" stroke-dashoffset="-153.24" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.36s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="3.70 153.38" dur="0.6s" begin="1.36s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#e34c26" stroke-width="8" stroke-dasharray="0.14 156.94" stroke-dashoffset="-156.94" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.54s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.14 156.94" dur="0.6s" begin="1.54s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#f472b6" stroke-width="8" stroke-dasharray="0.01 157.07" stroke-dashoffset="-157.07" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.72s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.01 157.07" dur="0.6s" begin="1.72s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#38bdf8">74%</text>
+    <text x="18" y="58" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="16.5" font-weight="700" fill="#e0e7ff">youtube-os<tspan fill="#818cf8"> _<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="1.10s" repeatCount="indefinite"/></tspan></text>
+    <text x="18" y="79" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">AI-powered YouTube channel</text>
+    <text x="18" y="95" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a5b4fc">intelligence — competitor analysis, t…</text>
+    <rect x="18" y="112" width="80" height="18" rx="9" fill="#818cf8" fill-opacity="0.14" stroke="#818cf8" stroke-opacity="0.4"/><text x="58" y="124.5" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#818cf8">TypeScript</text>
+    <text x="18" y="150" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#a5b4fc"><tspan fill="#4b8cd2">&#9733;</tspan> 0<tspan fill="#a5b4fc" fill-opacity="0.7" dx="12">updated today</tspan></text>
+    <circle cx="348" cy="92" r="25" fill="none" stroke="#a5b4fc" stroke-opacity="0.18" stroke-width="8"/><circle cx="348" cy="92" r="25" fill="none" stroke="#3178c6" stroke-width="8" stroke-dasharray="112.14 44.94" stroke-dashoffset="0.00" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.00s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="112.14 44.94" dur="0.6s" begin="1.00s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#f1e05a" stroke-width="8" stroke-dasharray="27.83 129.25" stroke-dashoffset="-112.14" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.18s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="27.83 129.25" dur="0.6s" begin="1.18s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#336790" stroke-width="8" stroke-dasharray="14.18 142.90" stroke-dashoffset="-139.97" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.36s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="14.18 142.90" dur="0.6s" begin="1.36s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#663399" stroke-width="8" stroke-dasharray="2.32 154.76" stroke-dashoffset="-154.15" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.54s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="2.32 154.76" dur="0.6s" begin="1.54s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><circle cx="348" cy="92" r="25" fill="none" stroke="#e0e7ff" stroke-width="8" stroke-dasharray="0.62 156.46" stroke-dashoffset="-156.46" transform="rotate(-90 348 92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.72s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 157.08" to="0.62 156.46" dur="0.6s" begin="1.72s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle><text x="348" y="96" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#e0e7ff">71%</text>
     </g>
   </a>
-    <text x="847" y="441" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="600" letter-spacing="0.3" fill="#7dd3fc" fill-opacity="0.42">reposkins.pro</text>
-    <rect x="0.5" y="0.5" width="859" height="451" rx="19.5" fill="none" stroke="#38bdf8" stroke-opacity="0.62"/>
+    <text x="847" y="441" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="600" letter-spacing="0.3" fill="#a5b4fc" fill-opacity="0.42">reposkins.pro</text>
+    <rect x="0.5" y="0.5" width="859" height="451" rx="19.5" fill="none" stroke="#818cf8" stroke-opacity="0.62"/>
   </g>
 </svg>
